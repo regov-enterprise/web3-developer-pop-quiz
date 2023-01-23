@@ -89,16 +89,14 @@ The test cases are generated so that the answer will fit in a 32-bit integer.
 <p> Develop a basic Web3 Identity solution called WPOP. The WPOP is intended to demonstrated workflow of Verifiable Credentials and its inhernet workflows on a basic level.<p/>
 
 <p> WPOP should have Seven key capabilities: </p>
-    - Ability to connect on a local Indy node or any Web3 Identity capable Node
-    - Ability to connect two users key actors( An user that issue credentials and another that holds credentials) 
-    - Ability to simulate Credentials Issuance and Verification feature
-    - Ability to list credentials existing in a wallet
-    - Registration
-    - Login & Logout
-- First item
-- Second item
-- Third item
-- Fourth item
+
+- Ability to connect on a local Indy node or any Web3 Identity capable Node
+- Ability to connect two users key actors( An user that issue credentials and another that holds credentials) 
+- Ability to simulate Credentials Issuance and Verification feature
+- Ability to list credentials existing in a wallet
+- Registration
+- Login & Logout
+
 
  <p> Implementation expecations : </p>
     - WPOP is an ResfFul API based application. 
