@@ -35,23 +35,23 @@ Choose any one of the following questions
 > Evaluate the expression. Return an integer that represents the value of the expression.
 
 *** Note that: ***
-- The valid operators are '+', '-', '*', and '/'.
-- Each operand may be an integer or another expression.
-- The division between two integers always truncates toward zero.
-- There will not be any division by zero.
-- The input represents a valid arithmetic expression in a reverse polish notation.
-- The answer and all the intermediate calculations can be represented in a 32-bit integer.
+    - The valid operators are '+', '-', '*', and '/'.
+    - Each operand may be an integer or another expression.
+    - The division between two integers always truncates toward zero.
+    - There will not be any division by zero.
+    - The input represents a valid arithmetic expression in a reverse polish notation.
+    - The answer and all the intermediate calculations can be represented in a 32-bit integer.
 
 **E.g 1:**
 
-Input: tokens = ["4","2","+","5","*"]
-Output: 30
-Explanation: ((4 + 2) * 5) = 30
+`Input: tokens = ["4","2","+","5","*"]`
+`Output: 30`
+`Explanation: ((4 + 2) * 5) = 30`
 
 **E.g 2:**
-Input: tokens = ["4","13","5","/","+"]
-Output: 6
-Explanation: (4 + (13 / 5)) = 6
+`Input: tokens = ["4","13","5","/","+"]`
+`Output: 6`
+`Explanation: (4 + (13 / 5)) = 6`
 
 
 **Constraints:**
@@ -89,19 +89,19 @@ The test cases are generated so that the answer will fit in a 32-bit integer.
 <p> Develop a basic Web3 Identity solution called WPOP. The WPOP is intended to demonstrated workflow of Verifiable Credentials and its inhernet workflows on a basic level.<p/>
 
 <p> WPOP should have Seven key capabilities: </p>
- - Ability to connect on a local Indy node or any Web3 Identity capable Node
- - Ability to connect two users key actors( An user that issue credentials and another that holds credentials) 
- - Ability to simulate Credentials Issuance and Verification feature
- - Ability to list credentials existing in a wallet
- - Registration
- - Login & Logout
+    - Ability to connect on a local Indy node or any Web3 Identity capable Node
+    - Ability to connect two users key actors( An user that issue credentials and another that holds credentials) 
+    - Ability to simulate Credentials Issuance and Verification feature
+    - Ability to list credentials existing in a wallet
+    - Registration
+    - Login & Logout
 
  <p> Implementation expecations : </p>
- - WPOP is an ResfFul API based application. 
- - WPOP is a completely dockerized application
- - Dockerize a local Indy network / Connect to any available test network
- - WPOP has clear instruction in the README on how to run the app locally
- - WPOP APIs should have clearly written comments on the code implementation
+    - WPOP is an ResfFul API based application. 
+    - WPOP is a completely dockerized application
+    - Dockerize a local Indy network / Connect to any available test network
+    - WPOP has clear instruction in the README on how to run the app locally
+    - WPOP APIs should have clearly written comments on the code implementation
 
 
 <p> Reference study materials: the W3C consortium published guidelines for implementing SSI based on the concepts of Verifiable Credentials (VC) and the Decentralized Identity (DID) models.  </p>
