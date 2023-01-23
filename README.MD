@@ -14,7 +14,7 @@ Choose any one of the following questions
     <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/link-list.png" >
 </p>
 
-**Example:**
+**E.g:**
 `Input: head = [4,2,1,3]`
 `Output: [1,2,3,4]`
 
