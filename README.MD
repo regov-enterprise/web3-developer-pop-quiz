@@ -8,7 +8,7 @@ Choose any one of the following questions
 
 ## Question 1 (Three Questions)
 
-1. Given the head of a linked list, return the list after sorting it in ascending order.
+1. > Given the head of a linked list, return the list after sorting it in ascending order.
 
 <p align="Left"> 
     <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/link-list.png" >
