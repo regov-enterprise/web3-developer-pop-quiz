@@ -95,6 +95,10 @@ The test cases are generated so that the answer will fit in a 32-bit integer.
     - Ability to list credentials existing in a wallet
     - Registration
     - Login & Logout
+- First item
+- Second item
+- Third item
+- Fourth item
 
  <p> Implementation expecations : </p>
     - WPOP is an ResfFul API based application. 
