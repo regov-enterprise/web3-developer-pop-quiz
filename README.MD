@@ -118,6 +118,7 @@ The test cases are generated so that the answer will fit in a 32-bit integer.
 
 # Submission process
 
-1. Email your work to techchallenge@regovtech.com
+1. Email your complete work to techchallenge@regovtech.com
+2. Sent via Github
 
-Good Luck!# web3-developer-pop-quiz
+Good Luck!#
