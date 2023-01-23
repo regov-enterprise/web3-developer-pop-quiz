@@ -23,7 +23,7 @@ Four questions Answer one Algorithm and one Programming
 2. Given the head of a linked list, return the list after sorting it in ascending order.
 
 <p align="Left"> 
-    <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/link-list.png" width="200" >
+    <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/link-list.png" >
 </p>
 
 
