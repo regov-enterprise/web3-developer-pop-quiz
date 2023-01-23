@@ -15,11 +15,11 @@ Choose any one of the following questions
 </p>
 
 **Example:**
-Input: head = [4,2,1,3]
-Output: [1,2,3,4]
+`Input: head = [4,2,1,3]`
+`Output: [1,2,3,4]`
 
-Input: head = [-1,5,3,4,0]
-Output: [-1,0,3,4,5]
+`Input: head = [-1,5,3,4,0]`
+`Output: [-1,0,3,4,5]`
 
 **Constraints:**
 
@@ -67,14 +67,14 @@ Given an integer array nums, find a subarray that has the largest product, and r
 The test cases are generated so that the answer will fit in a 32-bit integer.
 
 **E.g 1:**
-Input: nums = [2,3,-2,4]
-Output: 6
-Explanation: [2,3] has the largest product 6.
+`Input: nums = [2,3,-2,4]`
+`Output: 6`
+`Explanation: [2,3] has the largest product 6.`
 
 **E.g 1:**
-Input: nums = [-2,0,-1]
-Output: 0
-Explanation: The result cannot be 2, because [-2,-1] is not a subarray.
+`Input: nums = [-2,0,-1]`
+`Output: 0`
+`Explanation: The result cannot be 2, because [-2,-1] is not a subarray.`
 
 **Constraints:**
 
