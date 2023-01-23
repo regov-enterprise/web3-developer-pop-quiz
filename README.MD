@@ -99,11 +99,11 @@ The test cases are generated so that the answer will fit in a 32-bit integer.
 
 
  <p> Implementation expecations : </p>
-    - WPOP is an ResfFul API based application. 
-    - WPOP is a completely dockerized application
-    - Dockerize a local Indy network / Connect to any available test network
-    - WPOP has clear instruction in the README on how to run the app locally
-    - WPOP APIs should have clearly written comments on the code implementation
+- WPOP is an ResfFul API based application. 
+- WPOP is a completely dockerized application
+- Dockerize a local Indy network / Connect to any available test network
+- WPOP has clear instruction in the README on how to run the app locally
+- WPOP APIs should have clearly written comments on the code implementation
 
 
 <p> Reference study materials: the W3C consortium published guidelines for implementing SSI based on the concepts of Verifiable Credentials (VC) and the Decentralized Identity (DID) models.  </p>
