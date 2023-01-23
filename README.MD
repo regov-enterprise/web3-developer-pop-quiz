@@ -2,7 +2,7 @@
     <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/REGOV+Logo_CMYK.png" width="200" >
 </p>
 
-<p style="text-align: center;"> Business Analysis PopQuiz! </p>
+<p style="text-align: center;"> Engineering PopQuiz! </p>
 
 Four questions Answer one Algorithm and one Programming
 
@@ -26,12 +26,19 @@ Four questions Answer one Algorithm and one Programming
     <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/link-list.png" >
 </p>
 
-
 Input: head = [4,2,1,3]
 Output: [1,2,3,4]
 
 Input: head = [-1,5,3,4,0]
 Output: [-1,0,3,4,5]
+
+Constraints:
+
+- The number of nodes in the list is in the range [0, 5 * 104].
+
+- -105 <= Node.val <= 105
+
+**Follow up:** Can you sort the linked list in O(n logn) time and O(1) memory (i.e. constant space)?
 
 Aries Agent
 3. Agent should be able to issue credentials
@@ -76,8 +83,6 @@ Deliverables for the above case:
 
 # Submission process
 
-1. Email your work to careers@regovtech.com & techchallenge@regovtech.com
+1. Email your work to techchallenge@regovtech.com
 
 Good Luck!# web3-developer-pop-quiz
-# web3-developer-pop-quiz
-# web3-developer-pop-quiz
