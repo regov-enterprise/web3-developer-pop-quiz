@@ -11,7 +11,7 @@
 #### 1. Given the head of a linked list, return the list after sorting it in ascending order.###
 
 <p align="Left"> 
-    <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/link-list.png" width="400" >
+    <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/link-list.png" width="500" >
 </p>
 
 E.g:
