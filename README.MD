@@ -124,11 +124,12 @@ The system should include a customer portal (Investor Portal) for self-service t
 
  ## Notes
   - This pop quiz will enable us to assess your work quality and documentation for a real project
-  - Implement any two questions above and upload your code in either Github, Gitlab or any version control.
+  - Implement any two section of your choice.
   - Create a README.MD document with instructions
   - Include well organized and explanatory commnets
   - Produce concise/short technical design documentations
-  - If you require more time do reach out
+  - Upload your code in either Github, Gitlab or any version control.
+  - If you have any questions do reach out to the emails below
 
 ## Submission process
 
