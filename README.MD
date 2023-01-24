@@ -7,7 +7,7 @@
 ## Attempt any two questions among the three.
 
 ### Question 1 (Algorithm and Data Structure)
-*Attempt all three questions in Q1.*
+*QA contains three questions. Attempt all*
 #### A. Given the head of a linked list, return the list after sorting it in ascending order.###
 
 <p align="Left"> 
