@@ -6,8 +6,8 @@
 
 ## Attempt any two questions among the three.
 
-### Question 1 (Three Algorithm and Data Structure)
-
+### Question 1 (Algorithm and Data Structure)
+*Attempt all three questions in Q1.*
 #### A. Given the head of a linked list, return the list after sorting it in ascending order.###
 
 <p align="Left"> 
