@@ -125,7 +125,7 @@ The system should include a customer portal (Investor Portal) for self-service t
 
 
  ## Notes
-  - This pop quiz will enable us to assess your work quality and documentation for a real project
+  - Use Node.js (Typescript preferrably) or Python
   - Implement any two section of your choice.
   - Create a README.MD document with instructions
   - Include well organized and explanatory commnets
