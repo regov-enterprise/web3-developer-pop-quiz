@@ -72,7 +72,8 @@ E.g 1:
 `Output: 6`
 `Explanation: [2,3] has the largest product 6.`
 
-**E.g 1:**
+E.g 1:
+
 `Input: nums = [-2,0,-1]`
 `Output: 0`
 `Explanation: The result cannot be 2, because [-2,-1] is not a subarray.`
@@ -99,7 +100,8 @@ E.g 1:
 - Login & Logout
 
 
- <p> Implementation expecations : </p>
+<p> Expectations: </p>
+
 - WPOP is an ResfFul API based application. 
 - WPOP is a completely dockerized application
 - Dockerize a local Indy network / Connect to any available test network
