@@ -118,7 +118,7 @@ E.g 1:
 Create an API solution for a Unit Trust company called MTCT. MTCT consists of an headquarter (HQ), Two branches, multiple financial advisers (Agent), and over 100,000 investors. The HQ and its branches maintain daily operations of the business processes, and the HQ reconcile the daily onboarding of new customers, sales transactions, and KYC in the respective branches. The HQ is solely responsible to update new financial asset products that will reflect across the branch units.
 The system should include a customer portal (Investor Portal) for self-service to buy and sell assets.
 
-### Overall Capability
+<p> Expectations: </p>
 
 - Implement a simple solution that captures the basic functionalties of the actors, processes, and with customer portal to effect the onboarding process
 - Implement any process you're familiar with in the Financial industry
