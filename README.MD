@@ -86,24 +86,26 @@ E.g 1:
 
 ### Section 2 (Web3 Identity Solution)
 
-<p> Develop a basic Web3 Identity solution called WPOP. The WPOP is intended to demonstrated workflow of Verifiable Credentials and its inhernet workflows on a basic level.<p/>
+<p> Develop a basic Web3 Identity solution called WeIDY. The WeIDY is intended to demonstrated workflow of Verifiable Credentials and its inhernet workflows on a basic level.<p/>
 
-<p> WPOP should have Seven key capabilities: </p>
+<p> WeIDY should have seven key capabilities: </p>
 
-- Ability to connect on a local Indy node or any Web3 Identity capable Node
-- Ability to connect two users key actors( An user that issue credentials and another that holds credentials) 
-- Ability to simulate Credentials Issuance and Verification feature
+- Ability to connect on a local Indy node or any DLT Ledger of your choice
+- Ability to connect two or more actors( A user that issue credentials, a user that holders/store credentials, and a user that verifies) 
+- Ability to simulate Credentials Issuance and Verification (A simple or automated workflow)
 - Ability to list credentials existing in a wallet
-- Registration
+- User registration
 - Login & Logout
 
 <p> Expectations: </p>
 
-- WPOP is an ResfFul API based application. 
-- WPOP is a completely dockerized application
+- WeIDY is an API based application. 
+- WeIDY is a dockerized
 - Dockerize a local Indy network / Connect to any available test network
-- WPOP has clear instruction in the README on how to run the app locally
-- WPOP APIs should have clearly written comments on the code implementation
+- WeIDY has clear instruction in the README on how to run the app locally
+- WeIDY APIs should have clearly written comments on the code implementation
+- WeIDY should expose APIs on Swagger
+- The implementation should be simple and straight to the point
 
 <p> Reference study materials: the W3C consortium published guidelines for implementing SSI based on the concepts of Verifiable Credentials (VC) and the Decentralized Identity (DID) models.  </p>
 
