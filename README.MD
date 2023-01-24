@@ -4,10 +4,10 @@
 
 # Welcome to this PopQuiz!
 
-## Attempt any two questions among the three.
+## Attempt any two of the three Sections.
 
-### Question 1 (Algorithm and Data Structure)
-*QA contains three questions. Attempt all*
+### Section 1 (Algorithm and Data Structure)
+*Attempt all three questions in this section*
 #### A. Given the head of a linked list, return the list after sorting it in ascending order.###
 
 <p align="Left"> 
