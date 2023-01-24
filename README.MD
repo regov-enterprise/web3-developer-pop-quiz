@@ -8,7 +8,7 @@
 
 ## Question 1 (Three Algorithm and Data Structure)
 
-**1. Given the head of a linked list, return the list after sorting it in ascending order.**
+### 1. Given the head of a linked list, return the list after sorting it in ascending order.###
 
 <p align="Left"> 
     <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/link-list.png" >
@@ -60,7 +60,7 @@ E.g 2:
 `tokens[i] is either an operator: "+", "-", "*", or "/", or an integer in the range [-200, 200].`
 
 
-**###3. Maximum Product Subarray###**
+**3. Maximum Product Subarray**
 
 Given an integer array nums, find a subarray that has the largest product, and return the product.
 
