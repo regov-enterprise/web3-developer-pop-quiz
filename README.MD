@@ -4,17 +4,17 @@
 
 <p style="text-align: center;"> Engineering PopQuiz! </p>
 
-Choose any one of the following questions
+# Attempt any two questions among the three.
 
-## Question 1 (Three Questions)
+## Question 1 (Three Algorithm and Data Structure)
 
-1. > Given the head of a linked list, return the list after sorting it in ascending order.
+**1. > Given the head of a linked list, return the list after sorting it in ascending order.**
 
 <p align="Left"> 
     <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/link-list.png" >
 </p>
 
-**E.g:**
+E.g:
 
 `Input: head = [4,2,1,3]`
 `Output: [1,2,3,4]`
@@ -60,7 +60,7 @@ E.g 2:
 `tokens[i] is either an operator: "+", "-", "*", or "/", or an integer in the range [-200, 200].`
 
 
-3. > Maximum Product Subarray
+**3. > Maximum Product Subarray**
 
 Given an integer array nums, find a subarray that has the largest product, and return the product.
 
@@ -99,7 +99,6 @@ E.g 1:
 - Registration
 - Login & Logout
 
-
 <p> Expectations: </p>
 
 - WPOP is an ResfFul API based application. 
@@ -108,20 +107,35 @@ E.g 1:
 - WPOP has clear instruction in the README on how to run the app locally
 - WPOP APIs should have clearly written comments on the code implementation
 
-
 <p> Reference study materials: the W3C consortium published guidelines for implementing SSI based on the concepts of Verifiable Credentials (VC) and the Decentralized Identity (DID) models.  </p>
 
  - [W3C VC Credentials] (https://www.w3.org/TR/vc-data-model/)
  - [W3C DID] (https://www.w3.org/TR/did-core/)
 
- ## Points to note
+
+## Question 3
+
+Create an API solution for a Unit Trust company called MTCT. MTCT consists of an headquarter (HQ), Two branches, multiple financial advisers (Agent), and over 100,000 investors. The HQ and its branches maintain daily operations of the business processes, and the HQ reconcile the daily onboarding of new customers, sales transactions, and KYC in the respective branches. The HQ is solely responsible to update new financial asset products that will reflect across the branch units.
+The system should include a customer portal (Investor Portal) for self-service to buy and sell assets.
+
+
+### Overall Capability
+
+- Implement a simple solution that captures the basic functionalties of the actors, processes, and with customer portal to effect the onboarding process
+- Implement any process you're familiar with in the Financial industry
+
+
+ ## Notes
   - This pop quiz will enable us to assess your work quality and documentation for a real project
-  - Kindly produce concise/short documents: quality over quantity. You are not required to produce any work that would take beyond the target dates for submission
-  - For any queries, reach out to the emails below
+  - Implement any two questions above and upload your code in either Github, Gitlab or any version control.
+  - Create a README.MD document with instructions
+  - Include well organized and explanatory commnets
+  - Produce concise/short technical design documentations
+  - If you require more time do reach out
 
 # Submission process
 
 1. Email your complete work to techchallenge@regovtech.com
-2. Sent via Github
+2. Send via Github
 
-Good Luck!#
+Good Luck!
