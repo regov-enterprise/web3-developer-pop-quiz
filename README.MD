@@ -30,7 +30,7 @@ Choose any one of the following questions
 
 **Follow up:** Can you sort the linked list in `O(n logn)` time and `O(1)` memory (i.e. constant space)?
 
-2. > You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation. </br> Evaluate the expression. Return an integer that represents the value of the expression.
+2. > You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation. Evaluate the expression. Return an integer that represents the value of the expression.
 
 **Note that:**
 
@@ -41,13 +41,14 @@ Choose any one of the following questions
 - The input represents a valid arithmetic expression in a reverse polish notation.
 - The answer and all the intermediate calculations can be represented in a 32-bit integer.
 
-**E.g 1:**
+E.g 1:
 
 `Input: tokens = ["4","2","+","5","*"]`
 `Output: 30`
 `Explanation: ((4 + 2) * 5) = 30`
 
-**E.g 2:**
+E.g 2:
+
 `Input: tokens = ["4","13","5","/","+"]`
 `Output: 6`
 `Explanation: (4 + (13 / 5)) = 6`
@@ -59,13 +60,14 @@ Choose any one of the following questions
 `tokens[i] is either an operator: "+", "-", "*", or "/", or an integer in the range [-200, 200].`
 
 
-3. Maximum Product Subarray
+3. > Maximum Product Subarray
 
 Given an integer array nums, find a subarray that has the largest product, and return the product.
 
 The test cases are generated so that the answer will fit in a 32-bit integer.
 
-**E.g 1:**
+E.g 1:
+
 `Input: nums = [2,3,-2,4]`
 `Output: 6`
 `Explanation: [2,3] has the largest product 6.`
