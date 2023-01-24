@@ -8,7 +8,7 @@
 
 ### Question 1 (Three Algorithm and Data Structure)
 
-#### 1. Given the head of a linked list, return the list after sorting it in ascending order.###
+#### A. Given the head of a linked list, return the list after sorting it in ascending order.###
 
 <p align="Left"> 
     <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/link-list.png" >
@@ -30,7 +30,7 @@ E.g:
 
 **Follow up:** Can you sort the linked list in `O(n logn)` time and `O(1)` memory (i.e. constant space)?
 
-#### 2. You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation. Evaluate the expression. Return an integer that represents the value of the expression.
+#### B. You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation. Evaluate the expression. Return an integer that represents the value of the expression.
 
 **Note that:**
 
@@ -60,7 +60,7 @@ E.g 2:
 `tokens[i] is either an operator: "+", "-", "*", or "/", or an integer in the range [-200, 200].`
 
 
-#### 3. Maximum Product Subarray
+#### C. Maximum Product Subarray
 
 Given an integer array nums, find a subarray that has the largest product, and return the product.
 
@@ -84,7 +84,7 @@ E.g 1:
 - `-10 <= nums[i] <= 10`
 - `The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer.`
 
-### Question 2 (One Question)
+### Question 2 (Web3 Identity)
 
 **Web3 Identity Application**
 
@@ -113,7 +113,7 @@ E.g 1:
  - [W3C DID] (https://www.w3.org/TR/did-core/)
 
 
-### Question 3
+### Question 3 (Financial Industry)
 
 Create an API solution for a Unit Trust company called MTCT. MTCT consists of an headquarter (HQ), Two branches, multiple financial advisers (Agent), and over 100,000 investors. The HQ and its branches maintain daily operations of the business processes, and the HQ reconcile the daily onboarding of new customers, sales transactions, and KYC in the respective branches. The HQ is solely responsible to update new financial asset products that will reflect across the branch units.
 The system should include a customer portal (Investor Portal) for self-service to buy and sell assets.
@@ -134,7 +134,7 @@ The system should include a customer portal (Investor Portal) for self-service t
 
 ## Submission process
 
-1. Email your complete work to techchallenge@regovtech.com
+1. Email your complete work to techchallenge@regovtech.com & paul.agada@regovtech.com
 2. Send via Github
 
 Good Luck!
