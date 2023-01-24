@@ -14,7 +14,7 @@
     <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/link-list.png" width="500" >
 </p>
 
-E.g:
+e.g:
 
 `Input: head = [4,2,1,3]`
 `Output: [1,2,3,4]`
@@ -41,13 +41,13 @@ E.g:
 - The input represents a valid arithmetic expression in a reverse polish notation.
 - The answer and all the intermediate calculations can be represented in a 32-bit integer.
 
-E.g 1:
+e.g 1:
 
 `Input: tokens = ["4","2","+","5","*"]`
 `Output: 30`
 `Explanation: ((4 + 2) * 5) = 30`
 
-E.g 2:
+e.g 2:
 
 `Input: tokens = ["4","13","5","/","+"]`
 `Output: 6`
@@ -66,13 +66,13 @@ Given an integer array nums, find a subarray that has the largest product, and r
 
 The test cases are generated so that the answer will fit in a 32-bit integer.
 
-E.g 1:
+e.g 1:
 
 `Input: nums = [2,3,-2,4]`
 `Output: 6`
 `Explanation: [2,3] has the largest product 6.`
 
-E.g 1:
+e.g 1:
 
 `Input: nums = [-2,0,-1]`
 `Output: 0`
