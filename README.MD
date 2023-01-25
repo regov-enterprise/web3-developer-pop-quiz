@@ -24,7 +24,7 @@ e.g:
 
 **Constraints:**
 
-- The number of nodes in the list is in the range `[0, 5 * 10^4]`.
+- The number of nodes in the list is in the range [0, 5 * 10 <sup>4 </sup>].
 
 - ` -10^5 <= Node.val <= 10^5`
 -  -10 <sup>5</sup> <= Node.val <= 10 <sup>5</sup> 
