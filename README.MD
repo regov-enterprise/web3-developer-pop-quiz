@@ -26,9 +26,9 @@ e.g:
 
 - The number of nodes in the list is in the range [0, 5 * 10 <sup>4 </sup>].
 
-- ` -10^5 <= Node.val <= 10^5`
 -  -10 <sup>5</sup> <= Node.val <= 10 <sup>5</sup> 
-- 10 <sup>5</sup>
+
+
 **Follow up:** Can you sort the linked list in `O(n logn)` time and `O(1)` memory (i.e. constant space)?
 
 #### 2. You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation. Evaluate the expression. Return an integer that represents the value of the expression.
