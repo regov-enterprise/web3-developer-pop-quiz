@@ -24,9 +24,9 @@ e.g:
 
 **Constraints:**
 
-- The number of nodes in the list is in the range `[0, 5 * 104]`.
+- The number of nodes in the list is in the range `[0, 5 * 10<sup>4</sup>]`.
 
-- `-105 <= Node.val <= 105`
+- `-10<sup>5</sup> <= Node.val <= 10<sup>5</sup>`
 
 **Follow up:** Can you sort the linked list in `O(n logn)` time and `O(1)` memory (i.e. constant space)?
 
