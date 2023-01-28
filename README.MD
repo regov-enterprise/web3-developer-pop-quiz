@@ -4,8 +4,7 @@
 
 # Welcome to our PopQuiz!
 
-#### Attempt three(3) sections. Choose two among section 1 to 3, but section 4 is mandatory as it test for system design.
-
+#### Attempt three(3) sections. Choose two among section 1 to 3. The Section 4 System Design is mandatory.
 ### Section 1 (Algorithm and Data Structure)
 *Attempt all three questions in this section*
 #### 1. Given the head of a linked list, return the list after sorting it in ascending order.###
