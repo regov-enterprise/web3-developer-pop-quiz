@@ -126,16 +126,19 @@ The system should include a customer portal (Investor Portal) for self-service t
 ## Mandatory
 ### Section 4 (System Design & Solution Architecture)
 
-Design and produce a solution architecture for the Section 3 question.
+Design a system design and architecture for integration between applications in Sections 2 and 3. 
 
-It's time to plan for the development for the version two (2) solution of Section 3 questions. This version should extend to support both on-premise and cloud native deployment, but geared more towards cloud-native resources. And, uses Self-soverign identity management infrastructure. The architecture must capture core elements of a well-architectured solution that supports maintainability, scalability, and reliability. A key criteria for this architecture is Web3 support. The application will support Web3 Verifiable Credentials called WeIDY. WeIDY will handle the onboarding and user management credentialing on the Unit Trust company MTCT. 
+The next version of the section 2 application intends to have Web3 Self-sovereign identity for customer onboarding, verifiable credentials for asset management, and offboarding process. This version will extend to support portability on both on-premise and cloud-native deployment but is geared more towards cloud workload. It will use a Verifiable Credential Self-sovereign identity management paradigm, particularly open-source libraries such as Aries, Indy, etc. The architecture must capture the core principles of a well-architectured design supporting maintainability, scalability, and reliability. The key highlight of this system design is the integration with Web3 SSI module. The system design will integrate with Web3 Verifiable Credentials called WeIDY. WeIDY will handle the onboarding and user management credentialing for the Unit Trust company MTCT.
 
 <p> Expectations: </p>
 
-- Produce an architectural design using any diagram tool of your choice
-- The architecture will cover both Web3 blockchain layer, backend layer, Interfaces and all core modules
-- Label all components and the rational behind them in the applcation
+- Produce system architecture design using any design tool
+- The architecture will cover both Web3 blockchain layer, micro-services backend layer, interfaces and all modules
+- Label all services and components and its rationale
+- The system design should adopt modern technologies and best practices
+- Create a one/two pager explaning the system design
 - You may produce multiple architectural viewpoint (Extra advantage)
+- Feel free to design however you feel professionally inclined to do. Implementations are all yours.
 
  ## Notes
   - Use Node.js (Typescript preferrably) or Python
