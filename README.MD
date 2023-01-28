@@ -4,7 +4,7 @@
 
 # Welcome to our PopQuiz!
 
-## Attenpt three(3) technical challenges. Choose two from Section one(1) to Section three (3). While Section four(4) is mandarory for Technical Architects and Seniors Engineers
+## Attenpt three(3) technical challenges. Choose two from Section one(1) to Section three (3) while Section four(4) is mandarory.
 
 ### Section 1 (Algorithm and Data Structure)
 *Attempt all three questions in this section*
