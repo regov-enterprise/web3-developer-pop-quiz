@@ -4,7 +4,7 @@
 
 # Welcome to our PopQuiz!
 
-## Attempt three(3) in the following sections. Choose two among section 1 to 3, but section 4 is mandarory as it test for system design.
+### Attempt three(3) in the following sections. Choose two among section 1 to 3, but section 4 is mandarory as it test for system design.
 
 ### Section 1 (Algorithm and Data Structure)
 *Attempt all three questions in this section*
