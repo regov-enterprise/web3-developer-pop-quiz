@@ -2,9 +2,9 @@
     <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/REGOV+Logo_CMYK.png" width="200" >
 </p>
 
-# Welcome to this PopQuiz!
+# Welcome to our PopQuiz!
 
-## Attempt any two of the three Sections.
+## Attenpt three(3) technical challenges. Choose two from Section one(1) to Section three (3). While Section four(4) is mandarory for Technical Architects and Seniors Engineers
 
 ### Section 1 (Algorithm and Data Structure)
 *Attempt all three questions in this section*
@@ -114,7 +114,7 @@ e.g 1:
  - [W3C DID] (https://www.w3.org/TR/did-core/)
 
 
-### Question 3 (Financial Customer Onboarding & Asset Management App)
+### Section 3 (Financial Customer Onboarding & Asset Management App)
 
 Create an API solution for a Unit Trust company called MTCT. MTCT consists of an headquarter (HQ), Two branches, multiple financial advisers (Agent), and over 100,000 investors. The HQ and its branches maintain daily operations of the business processes, and the HQ reconcile the daily onboarding of new customers, sales transactions, and KYC in the respective branches. The HQ is solely responsible to update new financial asset products that will reflect across the branch units.
 The system should include a customer portal (Investor Portal) for self-service to buy and sell assets.
@@ -124,6 +124,18 @@ The system should include a customer portal (Investor Portal) for self-service t
 - Implement a simple solution that captures the basic functionalties of the actors, processes, and with customer portal to effect the onboarding process
 - Implement any process you're familiar with in the Financial industry
 
+### Section 4 (Solution Architecture - Compulsory for Technical Architects and Seniors Engineer)
+
+Design and produce a solution architecture for the Section 3 question.
+
+It's time to plan for the development for the version two (2) solution of Section 3 questions. This version should extend to support both on-premise and cloud native deployment, but geared more towards cloud-native resources. And, uses Self-soverign identity management infrastructure. The architecture must capture core elements of a well-architectured solution that supports maintainability, scalability, and reliability. A key criteria for this architecture is Web3 support. The application will support Web3 Verifiable Credentials called WeIDY. WeIDY will handle the onboarding and user management credentialing on the Unit Trust company MTCT. 
+
+<p> Expectations: </p>
+
+- Produce an architectural design using any diagram tool of your choice
+- The architecture will cover both Web3 blockchain layer, backend layer, Interfaces and all core modules
+- Label all components and the rational behind them in the applcation
+- You may produce multiple architectural viewpoint (Extra advantage)
 
  ## Notes
   - Use Node.js (Typescript preferrably) or Python
