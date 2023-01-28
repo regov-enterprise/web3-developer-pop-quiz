@@ -124,7 +124,7 @@ The system should include a customer portal (Investor Portal) for self-service t
 - Implement a simple solution that captures the basic functionalties of the actors, processes, and with customer portal to effect the onboarding process
 - Implement any process you're familiar with in the Financial industry
 
-### Mandatory
+## Mandatory
 ### Section 4 (System Design & Solution Architecture)
 
 Design and produce a solution architecture for the Section 3 question.
