@@ -4,7 +4,7 @@
 
 # Welcome to our PopQuiz!
 
-#### Attempt three(3) in the following sections. Choose two among section 1 to 3, but section 4 is mandarory as it test for system design.
+#### Attempt three(3) in the following sections. Choose two among section 1 to 3, but section 4 is mandatory as it test for system design.
 
 ### Section 1 (Algorithm and Data Structure)
 *Attempt all three questions in this section*
@@ -124,7 +124,8 @@ The system should include a customer portal (Investor Portal) for self-service t
 - Implement a simple solution that captures the basic functionalties of the actors, processes, and with customer portal to effect the onboarding process
 - Implement any process you're familiar with in the Financial industry
 
-### Section 4 (Solution Architecture - Compulsory for Technical Architects and Seniors Engineer)
+### Mandatory
+### Section 4 (System Design & Solution Architecture)
 
 Design and produce a solution architecture for the Section 3 question.
 
