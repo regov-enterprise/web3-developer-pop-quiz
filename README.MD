@@ -147,7 +147,7 @@ The next version of the section 2 application intends to have Web3 Self-sovereig
   - Include well organized and explanatory commnets
   - Produce concise/short technical design documentations
   - Upload your code in either Github, Gitlab or any version control.
-  - If you have any questions do reach out to the emails below
+  - If you have any questions, do reach out to the emails below
 
 ## Submission process
 
