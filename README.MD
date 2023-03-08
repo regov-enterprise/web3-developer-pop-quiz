@@ -152,6 +152,6 @@ The next version of the section 2 application intends to have Web3 Self-sovereig
 ## Submission process
 
 1. Email your complete work to techchallenge@regovtech.com & paul.agada@regovtech.com
-2. Send via Github
+2. Submit Github Repo
 
 Good Luck!
