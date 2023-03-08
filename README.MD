@@ -2,7 +2,7 @@
     <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/REGOV+Logo_CMYK.png" width="200" >
 </p>
 
-# Welcome to our PopQuiz!
+# Welcome to this PopQuiz!
 
 #### Attempt three(3) sections. Choose two among sections 1 to 3. Section 4, System Design, is mandatory.
 ### Section 1 (Algorithm and Data Structure)
