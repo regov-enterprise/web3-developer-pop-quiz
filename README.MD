@@ -5,7 +5,7 @@
 # Welcome to this PopQuiz!
 
 #### Attempt three(3) sections. Choose two among sections 1 to 3. Section 4, System Design, is mandatory.
-### Section 1 (Algorithm and Data Structure)
+### Question 1 (Algorithm and Data Structure)
 *Attempt all three questions in this section*
 #### 1. Given the head of a linked list, return the list after sorting it in ascending order.###
 
@@ -84,16 +84,18 @@ e.g 1:
 - `-10 <= nums[i] <= 10`
 - `The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer.`
 
-### Section 2 (Web3 Identity Solution)
+## Mandatory
+### Question 2 (Web3 Identity Solution)
 
 <p> Develop a basic Web3 Identity solution called WeIDY. The WeIDY is intended to demonstrated workflow of Verifiable Credentials and its inhernet workflows on a basic level.<p/>
 
 <p> WeIDY should have seven key capabilities: </p>
 
-- Ability to connect on a local Indy node or any DLT Ledger of your choice
-- Ability to connect two or more actors( A user that issue credentials, a user that holders/store credentials, and a user that verifies) 
-- Ability to simulate Credentials Issuance and Verification (A simple or automated workflow)
-- Ability to list credentials existing in a wallet
+- Agents is able to connect to local or remote (Sandbox e.g Green-light) Indy pool. Note: Use any Indy DLT Ledger of your choice
+- Connection between two or more agents
+- Agents can performing simple workflow: (1) Issuers issues credentials (2) Holders accepts and stores the credentials (3) Verifiers, verifies Credentials
+- Credentials requests and presentation
+- List credentials existing in a wallet
 - User registration
 - Login & Logout
 
@@ -107,13 +109,15 @@ e.g 1:
 - WeIDY should expose APIs on Swagger
 - The implementation should be simple and straight to the point
 
-<p> Reference study materials: the W3C consortium published guidelines for implementing SSI based on the concepts of Verifiable Credentials (VC) and the Decentralized Identity (DID) models.  </p>
+<p> Reference code repositories by Hyperledger Aries and W3C guidelines  </p>
 
+ - [Hyperledger Aries] (https://github.com/hyperledger/aries-framework-javascript)
+ - [Aries Documentation] (https://aries.js.org/)
  - [W3C VC Credentials] (https://www.w3.org/TR/vc-data-model/)
  - [W3C DID] (https://www.w3.org/TR/did-core/)
 
 
-### Section 3 (Financial Customer Onboarding & Asset Management App)
+### Question 3 (Financial Customer Onboarding & Asset Management App)
 
 Create an API solution for a Unit Trust company called MTCT. MTCT consists of an headquarter (HQ), Two branches, multiple financial advisers (Agent), and over 100,000 investors. The HQ and its branches maintain daily operations of the business processes, and the HQ reconcile the daily onboarding of new customers, sales transactions, and KYC in the respective branches. The HQ is solely responsible to update new financial asset products that will reflect across the branch units.
 The system should include a customer portal (Investor Portal) for self-service to buy and sell assets.
@@ -124,28 +128,27 @@ The system should include a customer portal (Investor Portal) for self-service t
 - Implement any process you're familiar with in the Financial industry
 
 ## Mandatory
-### Section 4 (System Design & Solution Architecture)
+### Question 4 (System Design & Solution Architecture)
 
-Design a system design and architecture for integration between applications in Sections 2 and 3. 
+Create system design architecture of integration between applications in Question 2 and 3. 
 
-The next version of the section 2 application intends to have Web3 Self-sovereign identity for customer onboarding, verifiable credentials for asset management, and offboarding process. This version will extend to support portability on both on-premise and cloud-native deployment but is geared more towards cloud workload. It will use a Verifiable Credential Self-sovereign identity management paradigm, particularly open-source libraries such as Aries, Indy, etc. The architecture must capture the core principles of a well-architectured design supporting maintainability, scalability, and reliability. The key highlight of this system design is the integration with Web3 SSI module. The system design will integrate with Web3 Verifiable Credentials called WeIDY. WeIDY will handle the onboarding and user management credentialing for the Unit Trust company MTCT.
+The next version of the section 2 application intends to have Web3 Self-sovereign identity for customer onboarding, verifiable credentials for asset management, and offboarding process. This version extends to support portability on both on-premise and cloud-native deployment but is geared more towards cloud workload. It will use a Verifiable Credential Self-sovereign identity management paradigm, particularly open-source libraries such as Aries, Indy, etc. The architecture must capture the core principles of a well-architectured design supporting maintainability, scalability, and reliability. The key highlight of this system design is the integration with Web3 SSI module. The system design will integrate with Web3 Verifiable Credentials called WeIDY. WeIDY will handle the onboarding and user management credentialing for the Unit Trust company MTCT.
 
-<p> Expectations: </p>
+<p> Expectations & Success Criteria: </p>
 
-- Produce system architecture design using any design tool
-- The architecture will cover both Web3 blockchain layer, micro-services backend layer, interfaces and all modules
+- Create system architecture design
+- Create a Data Flow Diagram (DFD) digrams
+- The architecture should cover Web3, micro-services / modules backend layer, and actors & interfaces
 - Label all services and components and its rationale
 - The system design should adopt modern technologies and best practices
-- Create a one/two pager explaning the system design
-- You may produce multiple architectural viewpoint (Extra advantage)
+- Document in a Wiki description of the architecture deisgn
 - Feel free to design however you feel professionally inclined to do. Implementations are all yours.
 
  ## Notes
   - Use Node.js (Typescript preferrably) or Python
-  - Implement any two section of your choice.
   - Create a README.MD document with instructions
   - Include well organized and explanatory commnets
-  - Produce concise/short technical design documentations
+  - Produce concise/short technical design documentation
   - Upload your code in either Github, Gitlab or any version control.
   - If you have any questions, do reach out to the emails below
 
