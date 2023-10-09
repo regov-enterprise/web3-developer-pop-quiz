@@ -2,9 +2,9 @@
     <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/REGOV+Logo_CMYK.png" width="200" >
 </p>
 
-# Welcome to this PopQuiz!
+# Welcome to our PopQuiz!
 
-#### Attempt three(3) Questions. Choose two among Question 1 & 2. Whereas, Question 3 & 4 are mandatory.
+#### Attempt 3 questions from the following; however, questions 3 & 4 are mandatory.
 ### Question 1 (Algorithm and Data Structure)
 *Attempt all three questions in this section*
 #### 1. Given the head of a linked list, return the list after sorting it in ascending order.###
