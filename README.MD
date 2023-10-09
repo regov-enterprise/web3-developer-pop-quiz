@@ -4,7 +4,7 @@
 
 # Welcome to this PopQuiz!
 
-#### Attempt three(3) sections. Choose two among sections 1 to 3. Section 4, System Design, is mandatory.
+#### Attempt three(3) Questions. Choose two among Question 1 & 2. Whereas, Question 3 & 4 are mandatory.
 ### Question 1 (Algorithm and Data Structure)
 *Attempt all three questions in this section*
 #### 1. Given the head of a linked list, return the list after sorting it in ascending order.###
@@ -84,8 +84,19 @@ e.g 1:
 - `-10 <= nums[i] <= 10`
 - `The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer.`
 
+
+### Question 2 (Customer Onboarding & Asset Management App)
+
+Create an API solution for a Unit Trust company called MTCT. MTCT consists of an headquarter (HQ), Two branches, multiple financial advisers (Agent), and over 100,000 investors. The HQ and its branches maintain daily operations of the business processes, and the HQ reconcile the daily onboarding of new customers, sales transactions, and KYC in the respective branches. The HQ is solely responsible to update new financial asset products that will reflect across the branch units.
+The system should include a customer portal (Investor Portal) for self-service to buy and sell assets.
+
+<p> Expectations: </p>
+
+- Implement a simple solution that captures the basic functionalties of the actors, processes, and with customer portal to effect the onboarding process
+- Implement any process you're familiar with in the Financial industry
+
 ## Mandatory
-### Question 2 (Web3 Identity Solution)
+### Question 3 (Web3 Identity Solution)
 
 <p> Develop a basic Web3 Identity solution called WeIDY. The WeIDY is intended to demonstrated workflow of Verifiable Credentials and its inhernet workflows on a basic level.<p/>
 
@@ -117,15 +128,6 @@ e.g 1:
  - [W3C DID] (https://www.w3.org/TR/did-core/)
 
 
-### Question 3 (Financial Customer Onboarding & Asset Management App)
-
-Create an API solution for a Unit Trust company called MTCT. MTCT consists of an headquarter (HQ), Two branches, multiple financial advisers (Agent), and over 100,000 investors. The HQ and its branches maintain daily operations of the business processes, and the HQ reconcile the daily onboarding of new customers, sales transactions, and KYC in the respective branches. The HQ is solely responsible to update new financial asset products that will reflect across the branch units.
-The system should include a customer portal (Investor Portal) for self-service to buy and sell assets.
-
-<p> Expectations: </p>
-
-- Implement a simple solution that captures the basic functionalties of the actors, processes, and with customer portal to effect the onboarding process
-- Implement any process you're familiar with in the Financial industry
 
 ## Mandatory
 ### Question 4 (System Design & Solution Architecture)
